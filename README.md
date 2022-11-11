@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KevinSRR
-- 👀 I’m interested in NLP, Math, Data Science, and so many more
+- 👀 I’m interested in Data Science, NLP, math and so many more
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me through [my gmail](mailto:sizhezhou1896@gmail.com?subject=[From%20GitHub]%20)
